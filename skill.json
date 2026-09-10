@@ -1,0 +1,17 @@
+{
+  "name": "genpark-btree-concurrent-latch-crabbing-storage-skill",
+  "version": "1.0.0",
+  "description": "Concurrent B+ Tree storage engine implementing latch crabbing protocols, internal node splitting, leaf chaining, and buffer page allocation.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "btree",
+    "storage-engine",
+    "latch-crabbing",
+    "concurrency",
+    "indexing"
+  ],
+  "dependencies": []
+}
